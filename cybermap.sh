@@ -18,7 +18,7 @@ echo -e ' \e[1;5;32m
       ___________________________________________________________________________________________
       |                                                                                         |
       |  {@} Coded By TechComSpot                                                           {@}  |
-      |  {@} Youtube  - https://www.youtube.com/channel/UCcbkV_EimZpPihtVvGVcf_A/featured  {@}  |
+      |  {@} Youtube  - https://youtube.com/channel/UCFZPn9EWnYHFZor7E84Ce8g/featured  {@}  |
       |  {@} Github   - https://github.com/TechComSpot                                    {@}  |
       |_________________________________________________________________________________________|
 
