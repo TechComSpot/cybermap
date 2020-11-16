@@ -1,5 +1,5 @@
 #!/bin/bash
-#This Script Was Made By @cyberghost
+#This Script Was Made By @techcomspot
 
 clear
 
@@ -17,9 +17,9 @@ echo -e ' \e[1;5;32m
                                                  ███    ███           \e[0m
       ___________________________________________________________________________________________
       |                                                                                         |
-      |  {@} Coded By CyberGhost                                                           {@}  |
+      |  {@} Coded By TechComSpot                                                           {@}  |
       |  {@} Youtube  - https://www.youtube.com/channel/UCcbkV_EimZpPihtVvGVcf_A/featured  {@}  |
-      |  {@} Github   - https://github.com/AnonymousAt3                                    {@}  |
+      |  {@} Github   - https://github.com/TechComSpot                                    {@}  |
       |_________________________________________________________________________________________|
 
                         >>>>>>>>>>>>>>>>   MENU   <<<<<<<<<<<<<<<<<<
