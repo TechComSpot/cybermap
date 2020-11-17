@@ -24,11 +24,11 @@
 
 <IMG SRC="https://github.com/AnonymousAt3/cybermap/blob/main/gif/cyber.gif">
 
-# Nmap
-Nmap, short for Network Mapper, is a free, open-source tool for vulnerability scanning and network discovery. Network administrators use Nmap to identify what devices are running on their systems, discovering hosts that are available and the services they offer, finding open ports and detecting security risks.
-Nmap can be used to monitor single hosts as well as vast networks that encompass hundreds of thousands of devices and multitudes of subnets.
+# CyberMap
+CyberMap, short for Cyber Mapper, is a free, open-source tool for vulnerability scanning and network discovery. Network administrators use CyberMap to identify what devices are running on their systems, discovering hosts that are available and the services they offer, finding open ports and detecting security risks.
+CyberMap can be used to monitor single hosts as well as vast networks that encompass hundreds of thousands of devices and multitudes of subnets.
 
-Though Nmap has evolved over the years and is extremely flexible, at heart it's a port-scan tool, gathering information by sending raw packets to system ports. It listens for responses and determines whether ports are open, closed or filtered in some way by, for example, a firewall. Other terms used for port scanning include port discovery or enumeration.
+Though CyberMap has evolved over the years and is extremely flexible, at heart it's a port-scan tool, gathering information by sending raw packets to system ports. It listens for responses and determines whether ports are open, closed or filtered in some way by, for example, a firewall. Other terms used for port scanning include port discovery or enumeration.
 
 
 --------------------------------
@@ -47,5 +47,5 @@ Though Nmap has evolved over the years and is extremely flexible, at heart it's 
 --------------------------------
      
      
-#This Script Was Made By @cyberghost
+#This Script Was Made By @techcomspot
 
